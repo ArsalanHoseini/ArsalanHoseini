@@ -28,4 +28,4 @@ Right now I lead frontend development of **[Bnesto](https://bnesto.com)**, a mul
 
 ### 📫 Find me
 
-[LinkedIn](https://www.linkedin.com/in/arsalan-hoseini-4a9b1b241) · [amirarsalanhoseini007@gmail.com](mailto:amirarsalanhoseini007@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arsalan-hoseini) · [amirarsalanhoseini007@gmail.com](mailto:amirarsalanhoseini007@gmail.com)
